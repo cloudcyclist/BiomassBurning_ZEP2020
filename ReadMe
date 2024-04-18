@@ -2,7 +2,7 @@ Biomass Burning Events at Zeppelin Observatory 2020
 
 The jupyter notebook contains all the information to load the trajecotry and MODIS fire data and
 provides code to analyse and plot the necessary variables.
-The Figures shown are part of the publication Gramlich et al. (2023).
+The Figures shown are part of the publication Gramlich et al. (2024).
 
 
 The notebook was run on Python 3.9.17,
